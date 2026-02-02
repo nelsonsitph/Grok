@@ -6,7 +6,7 @@ import io
 
 # --- 1. Page Setup ---
 st.set_page_config(page_title="Grok-only Voice Assistant", page_icon="🎙️")
-st.title("Grok-3-Mini: Voice Only")
+st.title("Nelson Trial: Voice Only")
 
 # --- 2. Grok Connection ---
 # You only need the GROK_API_KEY in your Streamlit Secrets now
